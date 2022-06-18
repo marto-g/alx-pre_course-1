@@ -1,2 +1,1 @@
-all
-updates
+time flies
